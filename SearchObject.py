@@ -118,11 +118,3 @@ for i in boxesList:
     draw_box(crush, i[0], i[1], i[2], i[3], width, height)
 
 turtle.mainloop()
-
-# if word_label == 'golden_retriever':
-#    return np.array([1, 0])
-# elif word_label == 'shetland_sheepdog':
-#    return np.array([0, 1])
-
-
-# plt.imshow(train_data[43][0], cmap = 'gist_gray')
